@@ -6,13 +6,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Cpp,+Python+Programmer;AI+Enthusiast;Game+Developer;Always+learning+new+things!&center=true&color=FF1493&size=22">
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Minahil-18&label=Profile%20Views&color=FF1493&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Minahil-18?label=Followers&style=for-the-badge&color=FF1493" />
-</p>
  
 ---
 
