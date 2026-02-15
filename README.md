@@ -12,8 +12,9 @@
 ## 👩‍💻 **About Me**
 - 🎓 Passionate about AI, game development, and problem-solving. 
 - 🖥️ **Tech Stack:** C++, Python, Firebase, Git, SQL   
-- 💡 Exploring **Firebase, AI models, and full-stack development**.  
-- 📌 Ask me about **C++, Python, AI, and Data Structures** 
+- 💡 Exploring **Firebase, AI/ML models, and full-stack development**.  
+- 📌 Ask me about **C++, Python, AI, and Data Structures, C#**
+- 📬 **Contact me at:** minahil.rizwan99@gmail.com 
 
 ---
 
@@ -28,16 +29,21 @@
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect with Me:
+
 <p align="center">
-  <a href="mailto:minahil.rizwan99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00BFFF?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://facebook.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Facebook-111111?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+  
+  <a href="https://instagram.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
----
+<hr>
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Minahil-18&show_icons=true&theme=tokyonight">
-</p>
