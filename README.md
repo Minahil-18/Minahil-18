@@ -30,17 +30,8 @@
 ---
 
 ## 🌐 Connect with Me:
-
-<p align="center">
-  <a href="https://facebook.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Facebook-111111?style=for-the-badge&logo=facebook&logoColor=white">
-  </a>
   
-  <a href="https://instagram.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:minahil.rizwan99@gmail.com">
     <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
