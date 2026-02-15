@@ -25,3 +25,19 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white">
 </p>
+
+---
+
+## 📫 Connect With Me
+<p align="center">
+  <a href="mailto:minahil.rizwan99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00BFFF?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Minahil-18&show_icons=true&theme=tokyonight">
+</p>
