@@ -9,6 +9,13 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Minahil-18&label=Profile%20Views&color=FF1493&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Minahil-18?label=Followers&style=for-the-badge&color=FF1493" />
+</p>
+ 
+---
+
 ## 👩‍💻 **About Me**
 - 🎓 Passionate about AI, game development, and problem-solving. 
 - 🖥️ **Tech Stack:** C++, Python, Firebase, Git, SQL   
