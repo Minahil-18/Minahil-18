@@ -4,8 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cpp,+Python+Programmer;AI+Enthusiast;Game+Developer;Always+learning+new+things!&center=true&color=FF1493&size=22">
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+in+progress;LLMs+%7C+FastAPI+%7C+ML;Building+real-world+AI+projects;Always+learning+%26+creating!&center=true&color=FF1493&size=22"> </p>
  
 ---
 
