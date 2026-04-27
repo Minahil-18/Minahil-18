@@ -44,7 +44,7 @@
 
 ## 🚀 What I'm Working On
 - 🤖 Improving AI/ML projects with better accuracy & performance  
-- 🏠 Building an AI-powered Interior Design App  
+- 🏠 Building AI powered chatbots  
 - 📈 Exploring LLMs, FastAPI, and intelligent systems  
 
 ---
