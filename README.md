@@ -17,6 +17,9 @@
 
 ---
 
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Minahil-18&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Minahil-18&theme=tokyonight" /> </p>
+
+---
 ## 🛠 **Tech Stack & Tools**
 <p align="center">
   <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white">
