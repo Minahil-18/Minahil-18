@@ -1,6 +1,6 @@
 <!-- Static Header with Typing Animation -->
 <p align="center">
-  <strong><h1>⋆⭒˚｡⋆ Hey, I'm Minahil! 🌷 ⋆⭒˚｡⋆</h1></strong>
+  <strong><h1>⋆⭒˚｡⋆ Hey, I'm Minahil 🌷 ⋆⭒˚｡⋆</h1></strong>
 </p>
 
 <p align="center">
@@ -40,3 +40,16 @@
 
 <hr>
 
+---
+
+## 🚀 What I'm Working On
+- 🤖 Improving AI/ML projects with better accuracy & performance  
+- 🏠 Building an AI-powered Interior Design App  
+- 📈 Exploring LLMs, FastAPI, and intelligent systems  
+
+---
+
+## 💡 Let's Build Something Together!
+<p align="center">
+  If you're working on something exciting in AI or tech, feel free to reach out 💌
+</p>
